@@ -17,7 +17,7 @@ Add to your composer.json
         }
     ],
     "require":{
-        "Detect-CMS":"1.1.**"
+        "Detect-CMS":"1.1.*"
     }
 }
 ```
